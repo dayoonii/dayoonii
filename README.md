@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Jeong%20DaYoon&fontSize=50)
 </div>
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">💻 Tech Stack 💻</h3>
 
 <p align="center"> 
 <div align=center> 
@@ -41,14 +41,13 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> &nbsp 
-   
 <br>
 </div>
 

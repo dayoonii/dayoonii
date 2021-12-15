@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="center">💻 Tech Stack 💻</h3>
+<hr>
 
 <p align="center"> 
 <div align=center> 

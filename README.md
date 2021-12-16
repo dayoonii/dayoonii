@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp 
 <br>
 
 <p align="center"> 
@@ -39,16 +42,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a> &nbsp 
 <br>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a> &nbsp 
 <br>
 </div>
 

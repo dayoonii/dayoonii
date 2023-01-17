@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 <p align="center"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a> &nbsp 
 <br>
